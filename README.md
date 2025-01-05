@@ -26,7 +26,27 @@ git clone https://github.com/4bHii-057/4bH11-Xd.git
 cd 4bH11-Xd
 python Abhii.py
 ```
+**`FOR POWERSHELL ( WINDOWS ) `
 
+```
+@echo off
+powershell -Command "Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force"
+powershell -Command "Install-Package -Name python -Force"
+pip install chardet urllib3 idna certifi requests bs4
+git clone https://github.com/4bHii-057/4bH11-Xd.git
+cd 4bH11-Xd
+python Abhii.py
+```
+
+**`FOR LINUX `
+```
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+pip3 install chardet urllib3 idna certifi requests bs4
+git clone https://github.com/4bHii-057/4bH11-Xd.git
+cd 4bH11-Xd
+python3 Abhii.py
+```
 https://chat.whatsapp.com/FHLh0galgyj6qjdX7xrxJs
 
 https://t.me/abhiclonetermux
