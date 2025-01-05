@@ -6,6 +6,10 @@ https://chat.whatsapp.com/FHLh0galgyj6qjdX7xrxJs
 
 New Update/0.2/Free/File/Random
 
+pkg upgrade && pkg upgrade
+pkg install python
+pkg install git
+pip install requests
 rm -rf 4bH11-Xd
 git clone https://github.com/4bHii-057/4bH11-Xd.git
 cd 4bH11-Xd
