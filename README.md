@@ -22,9 +22,9 @@ apk update && apk upgrade -y
 pip install chardet urllib3 idna certifi requests bs4
 apk add openssl -y
 rm -rf 4bH11-Xd
-git clone (link unavailable)
+git clone https://github.com/4bHii-057/4bH11-Xd.git
 cd 4bH11-Xd
-python (link unavailable)
+python Abhii.py
 ```
 
 https://chat.whatsapp.com/FHLh0galgyj6qjdX7xrxJs
