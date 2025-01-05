@@ -3,7 +3,7 @@ New Update/0.8/Free/File/Random
 DEV ARYA + DEEP XD KA JIJA JI ABHI JHIRWAL HERE <3 
 
 
-#FOR TERMUX (ANDROID)
+##`FOR TERMUX (ANDROID)`
 ```
 termux-setup-storage -y
 pkg install python -y
@@ -17,7 +17,7 @@ python Abhii.py
 ```
 
 
-#FOR iSH (IOS)
+##`FOR iSH (IOS)`
 
 ```
 apk add python -y
