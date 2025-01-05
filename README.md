@@ -1,6 +1,5 @@
 
-
-##`FOR TERMUX (ANDROID)`
+`FOR TERMUX (ANDROID)`
 ```
 termux-setup-storage -y
 pkg install python -y
@@ -14,7 +13,7 @@ python Abhii.py
 ```
 
 
-##`FOR iSH (IOS)`
+`FOR iSH (IOS)`
 
 ```
 apk add python -y
@@ -26,7 +25,8 @@ git clone https://github.com/4bHii-057/4bH11-Xd.git
 cd 4bH11-Xd
 python Abhii.py
 ```
-**`FOR POWERSHELL ( WINDOWS ) `
+
+`FOR POWERSHELL ( WINDOWS ) `
 
 ```
 @echo off
@@ -38,7 +38,8 @@ cd 4bH11-Xd
 python Abhii.py
 ```
 
-**`FOR LINUX `
+`FOR LINUX `
+
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
