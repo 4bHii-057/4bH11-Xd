@@ -1,6 +1,3 @@
-New Update/0.8/Free/File/Random
-
-DEV ARYA + DEEP XD KA JIJA JI ABHI JHIRWAL HERE <3 
 
 
 ##`FOR TERMUX (ANDROID)`
@@ -35,3 +32,7 @@ https://chat.whatsapp.com/FHLh0galgyj6qjdX7xrxJs
 https://t.me/abhiclonetermux
 
 Lo Guys Aa Gaya Dev + Deep Jhatu Ki Mummy Yaar 💀
+
+New Update/0.8/Free/File/Random
+
+DEV ARYA + DEEP XD KA JIJA JI ABHI JHIRWAL HERE <3 
